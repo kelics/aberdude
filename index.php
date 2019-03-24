@@ -7,11 +7,21 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Aberdude</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap-reboot.min.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap-grid.min.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap-grid.css" rel="stylesheet" type="text/css">
+        <link href="js/bootstrap.min.js" rel="stylesheet" type="text/css">
+        <link href="js/bootstrap.js" rel="stylesheet" type="text/css">
+        <link href="js/bootstrap.bundle.min.js" rel="stylesheet" type="text/css">
+        <link href="js/bootstrap.bundle.js" rel="stylesheet" type="text/css">
     </head>
     <body>
+         
         <?php
-        // put your code here
+        //brali kurej
         ?>
     </body>
 </html>
